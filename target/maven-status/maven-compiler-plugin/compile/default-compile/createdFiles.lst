@@ -1,0 +1,7 @@
+com\cgi\bcanon\cgitest\factorial\Factorial.class
+com\cgi\bcanon\cgitest\pattern\adapter\AdapterPesoToDollar.class
+com\cgi\bcanon\cgitest\pattern\singleton\Singleton.class
+com\cgi\bcanon\cgitest\sort\Sorting.class
+com\cgi\bcanon\cgitest\pattern\adapter\PaymentInPesos.class
+com\cgi\bcanon\cgitest\pattern\adapter\PaymentInDollarService.class
+com\cgi\bcanon\cgitest\pattern\adapter\PaymentMain.class
